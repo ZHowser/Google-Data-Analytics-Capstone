@@ -4,7 +4,7 @@
 
 *This analysis is a part of the [Google Data Analytics Capstone Project] on Coursera*
 
-#### Company Background:
+### Company Background:
 Bellabeat is a high-tech company that manufactures health-focused smart products with the aim to inspire women around the world by empowering them with knowledge about their own health and habits. Since its founding by Urška Sršen and Sando Mur in 2013, the company has grown rapidly and quickly positioned itself as a tech-driven wellness company for women.
 
 Sršen, Bellabeat's cofounder and Chief Creative Officer, believes that an analysis of existing [Fitbit Fitness Tracker Data] will reveal more opportunities for the company to grow.
